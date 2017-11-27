@@ -23,3 +23,6 @@ jupyter notebook Handwritten\ Digit\ Recognition\ with\ TFLearn.ipynb
 ## Take a look
 You can open the jupyter notebook directly in github 
 [Handwritten Digit Recognition with TFLearn.ipynb](https://github.com/virt87/DeepLearning/blob/master/Handwritten-Digit-Recognition-TFLearn/Handwritten%20Digit%20Recognition%20with%20TFLearn.ipynb)
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
