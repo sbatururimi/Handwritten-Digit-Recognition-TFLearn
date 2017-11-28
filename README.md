@@ -25,4 +25,4 @@ You can open the jupyter notebook directly in github
 [Handwritten Digit Recognition with TFLearn.ipynb](https://github.com/sbatururimi/Handwritten-Digit-Recognition-TFLearn/blob/master/Handwritten%20Digit%20Recognition%20with%20TFLearn.ipynb)
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sbatururimi/Handwritten-Digit-Recognition-TFLearn/blob/master/LICENSE)
